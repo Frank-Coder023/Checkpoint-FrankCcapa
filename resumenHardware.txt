@@ -1,0 +1,1 @@
+1. Memoria RAM \n2. Memoria ROM \n3. Memoria Cache
